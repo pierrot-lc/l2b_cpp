@@ -1,0 +1,2 @@
+var_cost,frac_val,fraction_conflicting_columns,fraction_conflicting_columns_with_positive_value,min_cost_conflicting_column,min_cost_conflicting_column_with_positive_value,nb_cols_in_mp,dual_cost_min,dual_cost_max,dual_cost_avg,frac_pairing_tasks_fixed,nb_pairing_tasks,norm_frac_val
+2.98,14.08,1.62,8.03,1.8,0.1,29.82,2.13,0.94,0.49,2.47,2.49,33.03
