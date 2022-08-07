@@ -12,13 +12,13 @@ We trained 3 models :
 
 Considering our models have to select the branching candidate among 3 possible candidates, we would be in a situation like this:
 
-[!Branching among 3 candidates](./images/presentation.png)
+![Branching among 3 candidates](./images/presentation.png)
 
 ### About the linear model and the MLP
 Those models evaluate each candidate separately.
 It could be represented like this (for the MLP):
 
-[!Candidate evaluation for the MLP](./images/mlp.png)
+![Candidate evaluation for the MLP](./images/mlp.png)
 
 ### About the Transformer encoder
 This model is able to evaluate all candidates at the same time.
