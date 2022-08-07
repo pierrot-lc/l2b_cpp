@@ -22,4 +22,8 @@ It could be represented like this (for the MLP):
 
 ### About the Transformer encoder
 This model is able to evaluate all candidates at the same time.
+By using the `attention module`, it is able to ponderate each candidate predictions based on the other candidates.
+It could be represented like this:
+
+![Transformer encoder predictions](./images/transformer_encoder.png)
 
